@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z0/JK1A72674BJZZEUX477A0Q.uasset",
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DL/6L9QCQ6CXN2HTQ7TFFZVZD.uasset",
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/8Q/GJJAES0WKDLROX2OA04F4G.uasset",
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/Deer.uasset",
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/SalamanderModel_Salamander.uasset",
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/Material.uasset",
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/SalamanderModel_Teeth.uasset",
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/SuchusOcclusion.uasset",
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/Material_Base_color.uasset",
+				"E:/GameDev/BiomimicryGame/BiomimicryGame/Content/SalamanderNormal.uasset"
+			]
+		}
+	]
+}
